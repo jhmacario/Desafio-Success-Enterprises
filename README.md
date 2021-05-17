@@ -6,3 +6,6 @@
 nos segmentos de máquina de lavar roupa e fogões, produtos que a Succes Enterprises fabrica e é líder de mercado. A partir de alguns dados da Receita Federal (Siscori), é possível organizar e filtrar as colunas de interesse.
 
 Para a análise de dados foi utilizado o conjunto de dados contidos em 'importacao_siscori.csv'.
+
+
+📌 Acesse o Report feito com o Pandas Profiling através do link: https://htmlpreview.github.io/?https://raw.githubusercontent.com/jhmacario/Desafio-Success-Enterprises/main/analise-de-dados-success-enterprise.html
