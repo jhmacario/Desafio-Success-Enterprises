@@ -8,4 +8,4 @@ nos segmentos de máquina de lavar roupa e fogões, produtos que a Succes Enterp
 Para a análise de dados foi utilizado o conjunto de dados contidos em 'importacao_siscori.csv'.
 
 
-📌 Acesse o Report feito com o Pandas Profiling através do link: https://abre.ai/analise-de-dados-success-enterprise
+📌 Acesse o Report feito com o Pandas Profiling através do link: https://abre.ai/profiling-success-enterprise
